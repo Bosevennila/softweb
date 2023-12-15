@@ -747,6 +747,9 @@ border:2px solid white;
 ![2](https://github.com/Bosevennila/softweb/assets/144870486/cc8dc3ae-05d9-4207-880c-89bb6376bac8)
 ![3](https://github.com/Bosevennila/softweb/assets/144870486/f51c2e6f-8d16-48d8-ba0a-7210db3cd498)
 ![4](https://github.com/Bosevennila/softweb/assets/144870486/05ed7a3c-1c1b-44a9-a019-bfe02ec8883a)
+
+
+
 ![5](https://github.com/Bosevennila/softweb/assets/144870486/3ecb66e3-220c-4bc5-9244-ce71e7298b79)
 
 
